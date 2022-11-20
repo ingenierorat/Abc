@@ -1,0 +1,8 @@
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\ABC\ABC\bin\Debug\ABC.exe.config
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\ABC\ABC\bin\Debug\ABC.exe
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\ABC\ABC\bin\Debug\ABC.pdb
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\ABC\ABC\obj\Debug\ABC.csproj.AssemblyReference.cache
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\ABC\ABC\obj\Debug\ABC.csproj.SuggestedBindingRedirects.cache
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\ABC\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\ABC\ABC\obj\Debug\ABC.exe
+E:\RAFAEL TORRES\Desarrollos\C#\Consola\ABC\ABC\obj\Debug\ABC.pdb
